@@ -7,7 +7,7 @@ APPS    := server client
 
 all: ${APPS}
 
-
+f
 clean:
 	rm -f ${APPS}
 
